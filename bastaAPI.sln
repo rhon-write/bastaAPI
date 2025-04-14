@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bastaAPI", "bastaAPI\bastaAPI.csproj", "{F0D02AFA-8A4F-426F-AE5C-97986E4D541B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D02AFA-8A4F-426F-AE5C-97986E4D541B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D02AFA-8A4F-426F-AE5C-97986E4D541B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D02AFA-8A4F-426F-AE5C-97986E4D541B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D02AFA-8A4F-426F-AE5C-97986E4D541B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019A49B9-C50B-4D93-B3A4-949DF8C2E5B1}
+	EndGlobalSection
+EndGlobal
